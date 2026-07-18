@@ -1,13 +1,13 @@
-# 💫 Hi 👋, I'm Manoj Kale
-Email Me 👉 ✉️ **manojkale187@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+# 💫 Hi 👋, I'm Ratikant Patil
+Email Me 👉 ✉️ **ratikantpatil413@gmail.com** For Collaboration/Project or Anything Else. 😊😊
  <img align="right" alt="Coding" width="250px" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U"><br/>
-- 🌱 **I’m currently learning:**  MERN Stack  Development
+- 🌱 **I’m currently learning:**  JAVA Stack  Development
 
 - 💬 Ask me about: Collaboration | Tech Support
 
-- 💻 **My Portfolio :** https://www.manojkale.tech
+- 💻 **My Portfolio :**  https://ratikantpatil.netlify.app/
  
-- 📫 **How to reach me:** manojkale187@gmail.com
+- 📫 **How to reach me:** ratikantpatil413@gmail.com
   
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 <br/>
